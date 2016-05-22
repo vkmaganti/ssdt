@@ -1,0 +1,12 @@
+/target/
+node_modules/
+.DS_Store
+.classpath
+.settings/
+.repository/
+/test-output/
+*.iml
+.idea/
+overlays/
+tmpFile.txt
+generated-source/
